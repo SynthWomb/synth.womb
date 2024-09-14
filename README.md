@@ -1,6 +1,6 @@
 
 <div align="center">
-© Cursed Entertainment 2024
+SynthWomb / Cursed Entertainment 2024
   </div>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
