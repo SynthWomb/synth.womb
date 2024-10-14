@@ -1,3 +1,5 @@
+[![Twitter: @NorowaretaGemu](https://img.shields.io/badge/X-@NorowaretaGemu-blue.svg?style=flat)](https://x.com/NorowaretaGemu)
+
 
 <div align="center">
 SynthWomb / Cursed Entertainment 2024
