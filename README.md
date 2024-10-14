@@ -6,8 +6,8 @@ SynthWomb / Cursed Entertainment 2024
   </div>
 <div align="center">
 <a href="https://github.com/SynthWomb" target="_blank" align="center">
-    <img src="https://github.com/SynthWomb/SynthWomb/blob/main/logos/synthwomb07.png"
-        alt="SynthWomb">
+    <img src="https://github.com/SynthWomb/synth.womb/blob/main/logos/synthwomb07.png"
+        alt="SynthWomb" style="width:200px;"/>
 </a>
 </div>
     <br>
